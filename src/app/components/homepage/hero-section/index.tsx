@@ -22,10 +22,16 @@ function HeroSection() {
             <Link target="_blank" href={"https://github.com/MuhammadSaikat25"}>
               <IoLogoGithub className="text-[#BB42BD]" size={30} />
             </Link>
-            <Link href={""}>
+            <Link href={"https://www.linkedin.com/in/MuhammadSaikat/"}>
               <BiLogoLinkedin className="text-[#BB42BD]" size={30} />
             </Link>
-            <Link className="bg-[#BB42BD] text-slate-300 px-3 rounded-md text-xl " href={""} target="_blank">
+            <Link
+              className="bg-[#BB42BD] text-slate-300 px-3 rounded-md text-xl "
+              href={
+                "https://drive.google.com/file/d/1f2g8EHkYoLJspTGZ8-PirW0YcjKo-649/view?usp=drive_link"
+              }
+              target="_blank"
+            >
               Resume
             </Link>
           </div>

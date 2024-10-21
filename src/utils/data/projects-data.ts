@@ -18,7 +18,7 @@ export const projectsData = [
     ],
     role: "",
     code: "",
-    demo: "https://lmsclinet.vercel.app/",
+    demo: "https://lmsclient-tau.vercel.app/",
     image: lms,
     clientGit: "https://github.com/MuhammadSaikat25/lms-client",
     serverGit: "https://github.com/MuhammadSaikat25/lms-Server",

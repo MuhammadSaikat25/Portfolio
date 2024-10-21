@@ -26,18 +26,7 @@ function AboutSection() {
       <div className="lg:w-[70%]">
         <p className="text-[#EC4899] text-2xl py-2">Who I am?</p>
         <p className="text-gray-300">
-          I am MERN stack developer with a strong focus on front-end
-          development, specializing in crafting engaging user interfaces using
-          React. Your expertise lies in building dynamic, responsive, and
-          user-friendly applications, where you leverage tools like JavaScript,
-          HTML, CSS, and frameworks such as Bootstrap, Material-UI, or Tailwind
-          CSS. You excel in managing state with Redux or Context API, and you're
-          adept at integrating front-end components with back-end APIs,
-          typically using Node.js and Express for data handling. While your
-          primary focus is on the client side, you have a solid understanding of
-          MongoDB and the back-end environment, which helps you collaborate
-          effectively with full-stack and back-end developers. Your role is
-          crucial in delivering seamless and intuitive user experiences.
+        I'm a MERN stack developer specializing in front-end development with React. I build dynamic, responsive, and user-friendly interfaces using JavaScript, HTML, CSS, and frameworks like Bootstrap, Material-UI, and Tailwind CSS. I'm skilled in managing state with Redux or Context API and adept at integrating front-end components with back-end APIs, using Node.js and Express for data handling. While I focus on client-side development, I have a solid understanding of MongoDB and back-end environments, enabling effective collaboration with full-stack and back-end teams to deliver seamless user experiences.
         </p>
       </div>
     </div>
